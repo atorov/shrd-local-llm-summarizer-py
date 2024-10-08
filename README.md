@@ -1,1 +1,1 @@
-# losum-py
+# shrd-losum-py
