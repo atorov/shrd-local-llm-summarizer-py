@@ -1,1 +1,1 @@
-# shrd-losum-py
+# local-llm-summarizer-py
