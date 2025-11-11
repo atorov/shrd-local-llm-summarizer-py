@@ -14,9 +14,7 @@ A Python-based tool for summarizing large text documents using local Large Langu
 
 ## Demo
 
-<!-- Placeholder for animated GIF demo -->
-
-![Demo](demo.gif)
+![Demo](https://github.com/atorov/shrd-local-llm-summarizer-py/blob/master/public/demo.gif)
 
 ## 🔧 Prerequisites
 
